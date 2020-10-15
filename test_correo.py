@@ -1,6 +1,8 @@
 # Ésto son las pruebas, déjalas donde están, no las toques
 # pero léelas. Aunque no las entiendas hay información útil
 # para saber lo que tienes que hacer
+def my_email():
+    return "daniel.larosa1@alu.uclm.es"
 
 import unittest
 class Test(unittest.TestCase):
