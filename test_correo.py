@@ -1,8 +1,13 @@
 # Ésto son las pruebas, déjalas donde están, no las toques
 # pero léelas. Aunque no las entiendas hay información útil
 # para saber lo que tienes que hacer
+<<<<<<< HEAD
 def my_email():
     return "daniel.larosa1@alu.uclm.es"
+=======
+def my_email
+    return  daniel.larosa1@alu.uclm.es
+>>>>>>> 30d3271364713f7b8844dedebaa2297b96bf476b
 
 import unittest
 class Test(unittest.TestCase):
